@@ -1,3 +1,7 @@
+<div style="display: flex; align-items: right;">
+  <img src="https://octodex.github.com/images/cloud.jpg" width="100" style="margin-right: 15px;" />
+</div>
+
 # Daily Learning
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 ```bash
@@ -24,3 +28,4 @@ private static int binarySearch(List<Integer> listOfNumbers, int numberToGetInde
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 ## Review
+
